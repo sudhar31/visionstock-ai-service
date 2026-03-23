@@ -1,0 +1,16 @@
+# Virtual Environment
+yolov26_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Uploads / results
+uploads/
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
